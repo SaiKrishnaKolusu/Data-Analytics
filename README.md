@@ -1,6 +1,5 @@
 # Fashion Insights Power BI Dashboard
 
-https://github.com/SaiKrishnaKolusu/PowerBI-Fashion-Insights-Dashboard.gitgh repo clone SaiKrishnaKolusu/PowerBI-Fashion-Insights-Dashboard
 ## Overview
 This project demonstrates the creation of an interactive Power BI dashboard to analyze and present key insights into fashion preferences, shopping habits, and lifestyle trends. It showcases end-to-end data processing, visualization, and interactive design.
 
@@ -12,5 +11,5 @@ This project demonstrates the creation of an interactive Power BI dashboard to a
 
 ## Files Included
 1. **Fashion_Data_Cleaned.csv** - 
-2. **Dashboard_Screenshots/** - Folder containing screenshots of key visuals from the dashboard.
+2. **Dashboard_Screenshots/** - https://github.com/SaiKrishnaKolusu/PowerBI-Fashion-Insights-Dashboard/blob/bdf3db814ab86957a2ed463c67f53a212dd887d3/Fashion%20Insights.pdf.
 3. **README.md** - Project documentation with details on setup, usage, and insights.
