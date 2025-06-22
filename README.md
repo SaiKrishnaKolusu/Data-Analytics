@@ -15,7 +15,7 @@ This project demonstrates the creation of an interactive Power BI dashboard to a
 3. **README.md** - Project documentation with details on setup, usage, and insights.
 
 ## Insights
-**Demographics**: Distribution of gender and age groups.
-**Style Preferences**: Popular daily outfits and favorite color palettes.
-**Shopping Habits**: Trends in shopping frequency and purchase influences.
-**Lifestyle Insights**: Correlation between activity levels and personality reflection scores.
+1. **Demographics**: Distribution of gender and age groups.
+2. **Style Preferences**: Popular daily outfits and favorite color palettes.
+3. **Shopping Habits**: Trends in shopping frequency and purchase influences.
+4. **Lifestyle Insights**: Correlation between activity levels and personality reflection scores.
