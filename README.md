@@ -13,3 +13,9 @@ This project demonstrates the creation of an interactive Power BI dashboard to a
 1. **Fashion_Data_Cleaned.csv** - 
 2. **Dashboard_Screenshots/** - https://github.com/SaiKrishnaKolusu/PowerBI-Fashion-Insights-Dashboard/blob/bdf3db814ab86957a2ed463c67f53a212dd887d3/Fashion%20Insights.pdf.
 3. **README.md** - Project documentation with details on setup, usage, and insights.
+
+## Insights
+**Demographics**: Distribution of gender and age groups.
+**Style Preferences**: Popular daily outfits and favorite color palettes.
+**Shopping Habits**: Trends in shopping frequency and purchase influences.
+**Lifestyle Insights**: Correlation between activity levels and personality reflection scores.
