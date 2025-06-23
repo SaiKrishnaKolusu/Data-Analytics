@@ -15,5 +15,5 @@ This project demonstrates the creation of an interactive Power BI dashboard to a
 
 ## Files Included
 1. [Fashion_Data](Fashion_Data.csv) - The cleaned dataset used for the dashboard.
-2. [Dashboard_Screenshots](Fashion Insights.pdf) - Folder containing screenshots of key visuals from the dashboard.
+2. [Dashboard_Screenshots](https://github.com/SaiKrishnaKolusu/PowerBI-Fashion-Insights-Dashboard/blob/0faa63a6b19a090795285842ab6fc4821d015fd3/Fashion%20Insights.pdf)- Folder containing screenshots of key visuals from the dashboard.
 4. **README.md** - Project documentation with details on setup, usage, and insights.
