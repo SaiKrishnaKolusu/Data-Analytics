@@ -1,5 +1,3 @@
-# Fashion Insights Power BI Dashboard
-
 ## Overview
 This project demonstrates the creation of an interactive Power BI dashboard to analyze and present key insights into fashion preferences, shopping habits, and lifestyle trends. It showcases end-to-end data processing, visualization, and interactive design.
 
